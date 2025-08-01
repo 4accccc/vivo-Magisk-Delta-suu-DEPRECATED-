@@ -1,4 +1,4 @@
-## DEPRECATED!!! USE (THIS)[https://github.com/4accccc/vivo-KitsuneMagisk-suu] INSTEAD!!!!
+## DEPRECATED!!! USE [THIS](https://github.com/4accccc/vivo-KitsuneMagisk-suu) INSTEAD!!!!
 
 [Magisk Delta 26.1 Testing phrase 4(26105) source code](https://github.com/HuskyDG/Magisk/tree/cd3e76848421ffd112ce01dd1beb8e6b9c921a66)
 
